@@ -38,7 +38,7 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&theme=react'>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&theme=dracula"/>
     </td>
     <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=react'>
