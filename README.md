@@ -33,15 +33,15 @@
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
-
+<br>
 <table align="left">
   <row>
     <td>
      <!-- Card -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&theme=dracula"/>
+     <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&theme=blueberry   '>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=react'>
+     <img height='172' src='https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=blueberry  '>
     </td>
   </row>
 </table> 
