@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/ThiagoGCorreaBotelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&langs_count=16&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
