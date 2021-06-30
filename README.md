@@ -30,7 +30,7 @@
    </a>
  </h1>
 </div>
-<h3 align="center">Tecnologias que amo ❤</h3>
+<h1 align="center">Tecnologias que amo <br><img src="https://camo.githubusercontent.com/5d9f0945d86358d0ab86cec5232e6f2e2d096aab9274d9f4543ec2d7f5069846/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663934392e706e673f7638" alt="" data-canonical-src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" style="padding-top:500%;"></h3>
 <p> 
   Sou desenvolvedor Júnior e apaixonado pelas tecnologias abaixo. 👇🏻😎🚀
  <br>
@@ -51,10 +51,16 @@
 
 <br>
 
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&theme=dracula'> 
-  <img height='172' src='https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=dracula'>
-</div>
+<table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznonato&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=beatriznonato&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
 
 ![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
