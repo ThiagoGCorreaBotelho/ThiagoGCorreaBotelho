@@ -33,6 +33,7 @@
 <h3 align="center">Tecnologias que amo ❤</h3>
 <p> 
   Sou desenvolvedor Júnior e apaixonado pelas tecnologias abaixo. 👇🏻😎🚀
+ <br>
 </h4>
 
 ![CSharpddddd](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
