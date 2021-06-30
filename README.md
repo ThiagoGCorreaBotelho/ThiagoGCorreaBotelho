@@ -31,7 +31,7 @@
  </h1>
 </div>
 <h3 align="center">Tecnologias que amo ❤</h3>
-<p> 
+<p  align="center"> 
   Sou desenvolvedor Júnior e apaixonado pelas tecnologias abaixo. 👇🏻😎🚀
  <br>
  <br>
