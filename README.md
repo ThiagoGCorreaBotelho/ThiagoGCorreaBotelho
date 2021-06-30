@@ -34,7 +34,7 @@
 <p> 
   Sou desenvolvedor Júnior e apaixonado pelas tecnologias abaixo. 👇🏻😎🚀
 </h4>
-
+<br>
 ![CSharpddddd](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSharpddddd](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
