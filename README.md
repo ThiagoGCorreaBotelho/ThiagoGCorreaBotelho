@@ -12,14 +12,14 @@
 <h3 align="center">Minhas redes sociais</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagocorreab/">
+  <a target="_blank" href="https://www.linkedin.com/in/thiagocorreab/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
                                                                                                                                 
-   <a href="https://www.linkedin.com/in/thiagocorreab/">
+   <a href="https://www.instagram.com/thiago_correea/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-    <a href="https://www.linkedin.com/in/thiagocorreab/">
+    <a href="https://www.facebook.com/ThiagoGCB/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
