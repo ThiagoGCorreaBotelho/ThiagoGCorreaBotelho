@@ -22,17 +22,20 @@
 
 <br>
 
-<p align="center">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!-- HTML Icon -->
-  <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
-  <!-- CSS Icon -->
-  <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png">&nbsp;
-  <!-- JS Icon -->
-  <img src="https://user-images.githubusercontent.com/35739995/122655023-a78d9100-d125-11eb-89b8-f006041d9d4a.png">&nbsp;
-  <!-- Git Icon -->
-  <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
-</p>
+![CSharpddddd](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSharpddddd](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![HTML5](	https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![HTML5](	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 <br>
 <br>
 <table align="left">
