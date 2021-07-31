@@ -5,8 +5,8 @@ Líder de time de desenvolvimento full stack em C#, ASP.Net Core, DDD, banco SQL
 ###
 <div>
   <a href="https://github.com/thiagogcorreabotelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&langs_count=16&theme=prussian"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagogcorreabotelho&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreabotelho&layout=compact&langs_count=16&theme=prussian"/>
 </div>
   
   ## Linguagens de trabalho:
@@ -40,8 +40,7 @@ Líder de time de desenvolvimento full stack em C#, ASP.Net Core, DDD, banco SQL
   
 ## Controle de Versão:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-  ##
+
  ## Minhas Redes:
 <div> 
   <a href="https://www.linkedin.com/in/thiagocorreab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
