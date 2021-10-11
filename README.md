@@ -1,6 +1,6 @@
 ## Hi, I'm Thiago Corrêa!
 ###
-Professional with over 5 years of experience in IT, enthusiast and specialist in fullstack development, working on LMS (Learning Management System), CMS (Content Management System) projects, coordinating all projects in the area (architecture, business analysis, development and documentation of processes, software deployments, in addition to internal and external support to the team, such as training teams to use the deployed systems). Full stack development team leader in C#, ASP.Net Core, DDD, SQL Azure Server database with Devops and SCRUM management using Azure Repos.
+Professional with over 5 years of experience in IT (3 with support and 2 with development), enthusiast and specialist in fullstack development, working on LMS (Learning Management System), CMS (Content Management System) projects, coordinating all projects in the area (architecture, business analysis, process development and documentation, software deployments, as well as internal and external support to the team, such as training teams to use the deployed systems). Leading the full stack development team in C#, ASP.Net Core, DDD, SQL Azure Server database with Devops and SCRUM management using Azure Repos.
 ###
 <div>
   <a href="https://github.com/thiagogcorreabotelho">
